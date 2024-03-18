@@ -1,6 +1,6 @@
 - 👋 Hello World, I am Sanu
 - 👀 interested in exploring cosmos and new code territoty with curosity of a cat... and making perfect fish soup 
-- 🌱 I’m currently learning to stack pancakes,I mean fullstack deveploment
+- 🌱 I’m currently learning to stack pancakes,I mean MERN stack
 - 😄Expect commits as frequent as my coffee breaks!..
 - 📫 Reach me: carrier pegions(with gps)
 - ⚡ Fun fact: I am secretly a cat wisperer, though I suspect they plot my doom when they listen to my code rants
